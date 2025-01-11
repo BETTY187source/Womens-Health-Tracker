@@ -2,7 +2,6 @@ import json
 from datetime import datetime, timedelta
 import os
 
-
 class WomensHealthTracker:
     DATA_FILE = "user_data.json"
 
