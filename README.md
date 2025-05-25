@@ -7,7 +7,7 @@ A Python application designed to track menstrual cycles, log symptoms, and set p
 
 ## Feature
 - **User Registration**: Register with a unique username.
-- **Cycle Tracking**: Input last cycle date and cycle length for predictionS.
+- **Cycle Tracking**: Input last cycle date and cycle length for predictions.
 - **Symptom Logging**: Log symptoms with timestamps for better health tracking.
 - **Personalized Reminders**: Set health-related reminders for upcoming cycles or other health needs.
 - **Next Cycle Prediction**: Automatically calculates and predicts the next cycle date.
