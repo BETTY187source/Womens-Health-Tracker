@@ -16,7 +16,7 @@ A Python application designed to track menstrual cycles, log symptoms, and set p
 ---
 
 ## Technologies Used
-- **Programming Language**: Python
+- **Programming Language**: Python 
 - **Data Storage**: JSON file for persistent storage
 - **Date & Time Handling**: Python’s `datetime` module
 
